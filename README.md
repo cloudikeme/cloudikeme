@@ -2,10 +2,10 @@
 
 A passionate MLOPs Engineer, writer, Content Creator and Tech Evangelist from Nigeria, Africa. 🌍✨ 
 
-My journey is fueled by a deep fascination with:
+My journey is fueled by a deep fascination and hands-on implementation with:
 
-- 🧠 **Cloud Native Machine Learning & AI Ops**
 - 🏗️ **Platform Engineering**
+- 🧠 **Cloud Native Machine Learning & AI Ops**
 - ☸️ **Kubernetes:** Orchestrating containers with grace, ensuring applications run smoothly and scale efficiently.
 - 🔗 **Distributed Systems:** focused on the complexities of interconnected systems, pushing the boundaries of performance and resilience.
 - 🤝 **Open Source Collaboration:** Believing in the power of shared knowledge and collective innovation.*
