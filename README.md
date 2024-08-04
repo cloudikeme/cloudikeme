@@ -12,8 +12,7 @@ My journey is fueled by a deep fascination with:
 - 🧐 **Observability**
 - 🌱 **Sustainable Computing**
 
-- 📚 Explore my thoughts and insights on all things Cloud Native AI, MLOps and nmore on my blog at [cloudikeme.com](cloudikeme.com)
-
-- 💡 I am open to remote work opportunities as well. 
+📚 Explore my thoughts and insights on all things Cloud Native AI, MLOps and nmore on my blog at [cloudikeme.com](cloudikeme.com)
+💡 I am open to remote work opportunities as well.
 
 Let's connect and collaborate on exciting projects! I'm always eager to learn, share, and build something amazing together.
