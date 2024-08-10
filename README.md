@@ -2,7 +2,7 @@
 
 A passionate MLOPs-Observability Focused Engineer, Writer, Content Creator and Tech Evangelist from Nigeria, Africa. 🌍✨ 
 
-I am deeply passionate about the Observability and monitoring of both ML workloads and traditional cloud native workloads, by applying methodologies for instrumenting, collecting, processing, storing, querying, curating, and correlating observational data such as metrics, logging/events, trace spans, profiles and dumps.
+I am deeply passionate about the Observability and monitoring of all kinds of architectural workloads with strong emphasis on cloud native workloads and ML workloads, by applying methodologies for instrumenting, collecting, processing, storing, querying, curating, and correlating observational data such as metrics, logging/events, trace spans, profiles and dumps.
 
 My journey is fueled by a deep fascination and hands-on implementation with:
 
