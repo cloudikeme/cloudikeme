@@ -1,6 +1,8 @@
 ## 👋 Hey there, I'm Victor Ikeme (cloudikeme)!
 
-A passionate MLOPs Engineer, writer, Content Creator and Tech Evangelist from Nigeria, Africa. 🌍✨ 
+A passionate MLOPs Engineer, Observability Focused Engineer, Writer, Content Creator and Tech Evangelist from Nigeria, Africa. 🌍✨ 
+
+I am focused on the Observability, monitoring and profiling of both ML workloads and traditional cloud native workloads, by applying methodologies for instrumenting, collecting, processing, storing, querying, curating, and correlating observational data such as metrics, logging/events, trace spans, and more.
 
 My journey is fueled by a deep fascination and hands-on implementation with:
 
