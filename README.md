@@ -1,8 +1,14 @@
 ## 👋 Hey there, I'm Victor Ikeme (cloudikeme)!
 
-A passionate Observability Focused Engineer, Writer, Content Creator and Tech Evangelist from Nigeria, Africa. 🌍✨ 
+Hey there! I'm Victor Ikeme, a Platform Engineer, Internal Developer Advocate, Writer and Content Creator from Nigeria, Africa. 
 
-I am deeply passionate about the Observability and monitoring of all kinds of architectural workloads with strong emphasis on cloud native workloads and ML workloads, by applying methodologies for instrumenting, collecting, processing, storing, querying, curating, and correlating observational data such as metrics, logging/events, trace spans, profiles and dumps.
+I am passionate about all things Platform Engineering, especially within the cloud-native ecosystem.
+
+I specialize in building and sharing insights on Platform Engineering, Internal Developer Platforms (IDP), Kubernetes, Cloud-native (CNCF) technologies, and Open Source solutions. Furthermore, I'm passionate about modern infrastructure, containerization, and DevOps methodologies.
+
+Online, I go by “cloudikeme”. You'll find me sharing insights, solving problems, and contributing to cloud-native and open source communities under this handle across various platforms.
+
+I occasionally write about my insights, tutorials, travels and adventures in tech on my blog. Feel free to reach out to me via email on: [victor@cloudikeme.com].
 
 My journey is fueled by a deep fascination and hands-on implementation with:
 
@@ -14,7 +20,7 @@ My journey is fueled by a deep fascination and hands-on implementation with:
 - 🧐 **Observability**
 - 🌱 **Sustainable Computing**
 
-📚 Explore my thoughts and insights on all things Observability, Cloud Native AI, Dev/ML Ops and more on my blog at [cloudikeme.com](cloudikeme.com)
+📚 Explore my thoughts and insights on all things Platform Engineering, Cloud Dev/ML Ops and more on my blog at [cloudikeme.com](cloudikeme.com)
 💡 I am open to remote work opportunities as well.
 
 Let's connect and collaborate on exciting projects! I'm always eager to learn, share, and build something amazing together.
